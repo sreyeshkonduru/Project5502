@@ -9,4 +9,5 @@ inputs=["text", "slider"],
     outputs=["text"],
 )
 
+
 demo.launch()
